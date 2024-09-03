@@ -1,0 +1,50 @@
+body {
+    background-color: #afe2ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #333;
+}
+
+h1 {
+    color: #2c3e50;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.profile-img {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    margin: 20px auto;
+    display: block;
+}
+
+.about-me {
+    margin: 20px;
+    padding: 15px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.hobbies ul {
+    margin: 20px;
+    list-style-type: none;
+    padding: 0;
+}
+
+.hobbies li {
+    margin: 20px;
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+footer a {
+    
+    color: #3498db;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #2980b9;
+}
